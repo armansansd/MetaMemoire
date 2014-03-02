@@ -1,4 +1,4 @@
-Meta_Memoire
+﻿Meta_Memoire
 ============
 
-recherche Mémoire A4 "Système Métaphorique"
+Recherches Mémoire A4 "Systèmes Métaphoriques"

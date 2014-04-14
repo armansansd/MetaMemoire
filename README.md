@@ -23,7 +23,9 @@ Titre
 * hypermedia
 * transmedia
 * software le media-mou / malléable
-
+* art logiciel / software art
+* structure technique de la perception
+* Le design de l'expérience
 
 ```greent IT // lecture écran ``` 
 

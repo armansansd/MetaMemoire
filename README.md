@@ -23,9 +23,11 @@ Titre
 * hypermedia
 * transmedia
 * software le media-mou / malléable
-* art logiciel / software art
+* art logiciel / software art, relation entre logiciel et art, logiciel à destination des artistes
+* Esthétique du software 
 * structure technique de la perception
 * Le design de l'expérience
+*
 
 ```greent IT // lecture écran ``` 
 

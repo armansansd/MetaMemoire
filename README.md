@@ -27,7 +27,7 @@ Titre
 * Esthétique du software 
 * structure technique de la perception
 * Le design de l'expérience
-*
+* écran eink / Qi screen
 
 
 ```greent IT // lecture écran ``` 

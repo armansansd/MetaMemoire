@@ -71,5 +71,3 @@ Proposition de plan
 > * better from scratch / sobriété fonctionnelle
 > * Reconditionnement : une pratique d’avenir
 
-
-

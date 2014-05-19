@@ -5,6 +5,7 @@ Titre
 =
 ###Statut et enjeux du design d'interface
 
+~~~
 * Métaphore du bureau // "bureau augmenté"  
 * Icone icÔne
 * l'icone : signe entre concept et image
@@ -30,12 +31,12 @@ Titre
 * structure technique de la perception
 * Le design de l'expérience
 * écran eink / Qi screen
+~~~
 
 
-``` à chercher : 
-greent IT // lecture écran  
-trouver des projets à analyser, 
-des exemples``` 
+#####à chercher :  
+greent IT // lecture écran   
+trouver des projets à analyser, des exemples
 
 
 

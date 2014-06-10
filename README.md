@@ -36,8 +36,8 @@ Titre
 
 #####à chercher :  
 greent IT // lecture écran   
-trouver des projets à analyser, des exemples
-
+trouver des projets à analyser, des exemples  
+Notion d'apprentissage, explication du code, amener l'utilisateur à manier la programmation
 
 
 

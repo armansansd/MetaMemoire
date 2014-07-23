@@ -17,4 +17,10 @@ exemple : Genie Mac
 Etienne Mineur, *Le Design des Média Intéractifs*, 1992  
 --
 Sujet (pointeur) + Complément (icône) + Verbe (action)  
-Dans cette syntaxe nous voyons que le curseur est utilisé comme un doigt virtuel permettant de désigner.
+Dans cette syntaxe nous voyons que le curseur est utilisé comme un doigt virtuel permettant de désigner.  
+  
+La fenêtre simule un document réel disposé sur un bureau. Nous pourrions comparer ces fenêtres à différentes feuilles les unes sur les autres. Une fenêtre peut passer en premier plan sur une autre et réciproquement (notion de recouvrement). Dès l’ouverture de plusieurs fenêtres, l’utilisateur possède virtuellement plusieurs écrans.  
+  
+Actuellement l’interface, afin d’être explicite, doit sans cesse faire référence aux anciens médias. Les anciens médias sont réduits sous forme d’icône, ils ne sont plus que des traces du passé.  
+L’exemple le plus significatif est cette fameuse corbeille que l’on trouve généralement en bas à droite de son écran.
+**Cette interface devra dans le futur s’émanciper et développer ses propres références.**

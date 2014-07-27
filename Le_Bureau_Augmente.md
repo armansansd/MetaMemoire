@@ -4,6 +4,7 @@ Notes et références:
 Xerox Star 8010 Ad, 1981
 ---
 Il est intéressant d'étudier cette photographie (sûrement une publicité) car elle illustre la ligne de conduite / de pensée du design graphique des systèmes d'exploitations (et des logiciel de plus au haut niveau). Cette publicité nous dit "it looks like paper", dans l'extrait de la publicité télévisuelle de 1981 l'ordinateur est analogue au travail d'une entreprise. Chaques actions, manipulations de document, chaque déplacement dans l'espace de travail, le bureau, trouve son analogie dans la surface numérique de l'écran d'ordinateur. Ce que nous voyons ici est un objet hybride, une reduction spatial (spatio-temporel) des activité de l'entreprise. C'est l'état embryonnaire de ce que Steve Jobs appliquera par la suite à un panel plus large de domaines (art, quotidien). 
+   
 ---
 Frank Chimero, *What Screens Want*, November 2013  
 --
@@ -32,6 +33,4 @@ L’exemple le plus significatif est cette fameuse corbeille que l’on trouve g
 Vidéo - Xerox Parc 1991 augmented Desk  
 
 ---
-
-
 

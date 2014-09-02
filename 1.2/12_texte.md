@@ -13,7 +13,7 @@ Comment ne pas penser à son origine religieuse ? Icône peinte par les moines o
 
 **icone open streetmap** (symboliser la présence // cartographie) 
   
-**Ne sommes nous pas dans une pensée mythique ? (entre concept et percept ?)** L'icône informatique serait avant tout signe entre le concept (code informatique) et l'image qu'il synthétise. Et par la même deviendrait langage composé d'idéogrammes*[cit V. Flusser (en note)] (le terme ici semble probant sachant que ces images ont été utilisées par Alan Kay pour communiquer avec des étudiants Chinois [ref iconorama]). 
+**Ne sommes nous pas dans une pensée mythique ? (entre concept et percept ?)** L'icône informatique serait avant tout signe entre le concept (code informatique) et l'image qu'il synthétise. Et par la même deviendrait langage composé d'idéogrammes[cit V. Flusser (en note)] (le terme ici semble probant sachant que ces images ont été utilisées par Alan Kay pour communiquer avec des étudiants Chinois [ref iconorama]). 
 Ces accumulations d'images au sein des systèmes informatiques ont donc crées des métalangages au croisement des cultures occidentales et orientales (Icône Idéogramme) permettent à la machine de s'adresser à nous en revêtant "une certaine épaisseur d'humanité" [ref levis strauss].  
 
 L'icône  telle qu'on la connaît aujourd'hui a été inventée en 1971 par un groupe d’ingénieur et de designer composé *d'Alan Kay, de David Carnfield Smith et plus tard Norman Cox*.  

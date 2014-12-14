@@ -2,7 +2,7 @@ Il fût un temps où nous nous demandions comment occuper les ordinateurs. Au co
 
 **developper la relation ambigue humain machine (Sherry Turkle - The Second Self)**  
 
-Il me semble interessant que pour mieux appréhender la complexité des interfaces. Il nous faut en définir leurs essences en dehors de toutes concidération visuelle.  
+Il me semble interessant que pour mieux appréhender la complexité des interfaces, il nous faut en définir leurs essences en dehors de toutes concidération visuelle.  
 L'interface peut être séparée en 3 parties distinctes.  
 
 1	2	3  

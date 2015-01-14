@@ -1,8 +1,6 @@
-﻿Il fut un temps où nous nous demandions comment occuper les ordinateurs. Au cours de nombreuses réunions des scientifiques, sociologues et artistes se concertaient pour entrevoir les possibles utilisations de ces machines nouvellement créées. Ce temps est révolu, ce sont eux qui nous occupent(Sherry Turkle conférence TED 2012) et il devient difficile, voire impossible, de nous en séparer.  
+Il fut un temps où nous nous demandions comment occuper les ordinateurs. Au cours de nombreuses réunions des scientifiques, sociologues et artistes se concertaient pour entrevoir les possibles utilisations de ces machines nouvellement créées. Ce temps est révolu, ce sont eux qui nous occupent(\) et il devient difficile, voire impossible, de nous en séparer.  
 
-**développer la relation ambiguë humain / machine (Sherry Turkle - The Second Self)**  
-
-Il me semble intéressant que pour mieux appréhender la complexité des interfaces, il nous faille en définir leurs essences en dehors de toute considération visuelle.  
+Il semble intéressant que, pour mieux appréhender la complexité des interfaces, il nous faille en définir leurs essences en dehors de toutes considérations visuelles.  
 L'interface peut être séparée en 3 parties distinctes.  
 
 1	2	3  
@@ -26,7 +24,16 @@ Présence de courant ET Présence de courant = Présence de courant
 Par accumulation les scientifiques ont pu créer des circuits très complexes permettant l'enregistrement et le traitement d'informations. Si nos écrans sont des fenêtres, des points d'accès et de discours avec nos ordinateurs. Les circuits quant à eux qui les composent et les programmes qui les utilisent sont autant de portes (logiques), de couloirs et d'interrupteurs.  
 Mais la fenêtre n'impose pas de représentation à ce qui lui passe au travers, une porte quant à elle, peut être ouverte ou fermée. (Galloway p40)   
 Un langage de programmation, un code, n'est jamais neutre, il transporte et dirige notre accès à l'information, de par sa structure et son élaboration.  
-Par analogie l'interface, auquel le système est associé, l'est encore moins, car elle cristallise et fixe la perception. **(en quoi? à dev)**  
+Par analogie l'interface, auquel le système est associé, l'est encore moins, car elle cristallise et fixe la perception.
+
+
+**takes many different forms. A relationship with a computer can influence
+people’s conceptions of themselves, their jobs, their relationships
+with other people, and with their ways of thinking about social processes.
+It can be the basis for new aesthetic values, new rituals, new philosophy,
+new cultural forms. p156**
+
+ 
 Caché sous les couches de l'interface "les logiciels emportent des algorithmes et des codes qui orientent notre façon de voir" (Lev Manovich-Langage des Nouveux Médias page **?**).  
 Par la suite Lev Manovich avance, qu'un code transporte une idéologie, un modèle, sont utilisation sera donc limitée par le système qui le régit.  
 Notre relation est doublement filtrée. L'interface comme le code sont des modèles transportant leurs propres visions du monde, leur propre organisation. **(à dev ou fera office de conclusion)**  
@@ -44,4 +51,4 @@ Ce déterminisme reste tout de me tempérer, mais dans le cas du code informatiq
 **microsoft word (matthew fuller et Anthony Masure) transmission d'une idéologie.**  
 
 ---  
-
+(\) Sherry Turkle, ,conférence TED, 2012

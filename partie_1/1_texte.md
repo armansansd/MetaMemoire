@@ -31,7 +31,7 @@ Mais comme nous l'apprend, par la suite, Alan Cooper, ce n'est pas vraiment de m
 (\) Matthew Fuller, I/O/D, « Windows: a disorder riding machine », cit. « The concept of windows [...] in the 1970s », <http://bak.spc.org/iod/Disorder.html>, 1999  
 (\)Etienne Mineur, _Le Design des Médias Interactifs_, mémoire réalisé lors de ses études à l'ENSAD ,1989  
 (\)Vilém Flusser, _Petite Philosophie du Design_, p.44, Circé, 2002
-(\)Alan Cooper,« The Myth of Metaphor», _Visual Basic Programmer's Journal_, Juin 1995  
+(\)Alan Cooper,« The Myth of Metaphor », _Visual Basic Programmer's Journal_, Juin 1995  
 (\) http://www.cnrtl.fr/definition/idiome, consulté le 12 janv. 2015  
 
 
@@ -71,7 +71,7 @@ Il semble interessant de nous pencher sur l'évolution de nos interfaces à l'he
 
 (\)Sonia Marques et Etienne CLiquet, Ecole Supérieure des Beaux-arts d'Angers, _Iconorama_, édition Isolarii,2005  
 (\)Suzan Kare, _Suzan Kare, Iconographer_, EG8, mai 2014  
-(\)Alan Cooper,« The Myth of Metaphor», _Visual Basic Programmer's Journal_, Juin 1995 
+(\)Alan Cooper,« The Myth of Metaphor », _Visual Basic Programmer's Journal_, Juin 1995 
 (\)Sonia Marques et Etienne CLiquet, _op.cit_, p.7    
 (\)_ibid_
 (\)Vilém Flusser, _Petite Philosophie du Design_, p.27, Circé, 2002  

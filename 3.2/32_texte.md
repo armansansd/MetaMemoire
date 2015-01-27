@@ -42,11 +42,3 @@ En 1970 à l'université de UCLA, une équipe de chercheur subventionné par la 
 
 ----------
 
-Conclusion 
- 
-Mais nous sommes loins des brains interface, 
-même si nous avons vu que ...
-
-L'important aujourd'hui serait de nous recréer un avenir, de repenser des interface suivant d'autre paradigme ... 
-Parler des recherches sur le temps 
-questionner notre rapport aux technologie (YOLO)

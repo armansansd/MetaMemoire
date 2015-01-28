@@ -1,15 +1,15 @@
-Il fut un temps où nous nous demandions comment occuper les ordinateurs. Au cours de nombreuses réunions des scientifiques, sociologues et artistes se concertaient pour entrevoir les possibles utilisations de ces machines nouvellement créées. Ce temps est révolu, ce sont eux qui nous occupent(\) et il devient difficile, voire impossible, de nous en séparer.  
+﻿Il fut un temps où nous nous demandions comment occuper les ordinateurs. Au cours de nombreuses réunions des scientifiques, sociologues et artistes se concertaient pour entrevoir les possibles utilisations de ces machines nouvellement créées. Ce temps est révolu, ce sont eux qui nous occupent(\) et il devient difficile, voire impossible, de nous en séparer.  
 
 Il semble intéressant que, pour mieux appréhender la complexité des interfaces, il nous faille en définir leurs essences en dehors de toutes considérations visuelles.  
 L'interface peut être séparée en [3 parties distinctes](img/SchémaInterface).
 
-La première et la troisième section sont des zones d'échanges d'informations. L'interface nous fait parvenir de l'information et nous lui envoyons des commandes. De même dans la 3e, les composants de l'ordinateur reçoivent des commandes et renvoient des états.  
+La première et la troisième section sont des zones d'échanges d'informations. L'interface nous fait parvenir de l'information et nous lui envoyons des commandes. De même dans la troisième, les composants de l'ordinateur reçoivent des commandes et renvoient des états.  
 Au milieu se trouve une zone d'activité, une zone de choix.   
-Dans _The Interface Effect_, Alexandre Galloway(\) nous explique que l'interface n'est pas transparente, mais un « [_nexus_][connexion de plusieurs éléments] fertile »(\), un lieu d'autonomie entre « divin et mortel ». En effet, c'est un pont jeté entre une technologie à la fois fascinente et difficile d'accés, réagissant à nos actes et produisant de l'image, et notre quotidien.(\) Cela nous renvoie vers le projet [Pygmalion](img/pygmalion) où la muse prend vie, revêt une couche d'humanité, au travers de la matérialité de l'oeuvre, pour rencontrer l'artiste. Les interfaces ne sont pas des objets, des formes figées, mais elles sont le produit d'interactions, d'effets. En constant mouvement, elle n'existerait pas sans les actions qui les animent. Ce sont des acteurs actionnés.   
+Dans _The Interface Effect_, Alexandre Galloway(\) nous explique que l'interface n'est pas transparente, mais un « [_nexus_][connexion de plusieurs éléments] fertile »(\), un lieu d'autonomie entre « divin et mortel ». En effet, c'est un pont jeté entre une technologie à la fois fascinante et difficile d'accès, réagissant à nos actes et produisant de l'image, et notre quotidien.(\) Cela nous renvoie vers le projet [Pygmalion](img/pygmalion) où la muse prend vie, revêt une couche d'humanité, au travers de la matérialité de l'oeuvre, pour rencontrer l'artiste. Les interfaces ne sont pas des objets, des formes figées, mais elles sont le produit d'interactions, d'effets. En constant mouvement, elles n'existeraient pas sans les actions qui les animent. Ce sont des acteurs actionnés.   
  
 Penchons-nous sur le fonctionnement logique intrinsèque aux circuits des ordinateurs. L'algèbre de Boole (ou logique booléenne) est une « technique algébrique permettant de traiter des expressions à deux valeurs »(\), ici le 0 ou le 1, correspondant à l'absence ou la présence de courant.
-Cet algèbre utilise des variables particulières s'ennonçant ainsi :ET, OU, NON, etc. 
-Ce sont des fonctions primaires ayant des équivalents physiques facilement apréhendables et donc réalisables sur des circuits imprimés. Voici un le schéma d'un [relais electronique][un relais est un interupteur actionnée par le champ magnétique d'une bobine annexe], qui est un composant phare de la création des calculateurs. Il permet d'effectuer une analogie entre les fonctions énoncée plus haut et un événement électrique.  
+Cet algèbre utilise des variables particulières s'énonçant ainsi :ET, OU, NON, etc. 
+Ce sont des fonctions primaires ayant des équivalents physiques facilement appréhendables et donc réalisables sur des circuits imprimés. Voici un le schéma d'un [relais électronique][un relais est un interrupteur actionné par le champ magnétique d'une bobine annexe], qui est un composant phare de la création des calculateurs. Il permet d'effectuer une analogie entre les fonctions énoncées plus haut et un événement électrique.  
 
 [*](img/schémasrelais)
 
@@ -54,24 +54,24 @@ Ce sont des fonctions primaires ayant des équivalents physiques facilement apr�
 </tr>
 </tbody></table>
 
-Par accumulation les scientifiques ont pu créer des circuits très complexes permettant l'enregistrement et le traitement d'informations. Si nos écrans sont des fenêtres, des points d'accès et de discours avec nos ordinateurs. Les circuits quant à eux qui les composent et les programmes qui les utilisent sont autant de portes (logiques), de couloirs et d'interrupteurs.  
+Par accumulation, les scientifiques ont pu créer des circuits très complexes permettant l'enregistrement et le traitement d'informations. Si nos écrans sont des fenêtres, des points d'accès et de discours avec nos ordinateurs. Les circuits quant à eux qui les composent et les programmes qui les utilisent sont autant de portes (logiques), de couloirs et d'interrupteurs.  
 Mais la fenêtre n'impose pas de représentation à ce qui lui passe au travers, une porte quant à elle, peut être ouverte ou fermée.(\)   
-Un langage de programmation, un code, n'est jamais neutre, il transporte et dirige notre accès à l'information, de par sa structure et son élaboration.  
-Par analogie l'interface, auquel le système est associé, l'est encore moins, car elle crystallise et fixe la perception.
+Un langage de programmation, un code, n'est jamais neutre, il transporte et dirige notre accès à l'information, par sa structure et son élaboration.  
+L'interface, à laquelle le système est associé, l'est encore moins, car elle cristallise et fixe la perception.
 
-Caché sous les couches de l'interface "les logiciels emportent des algorithmes et des codes qui orientent notre façon de voir" (\).  
-Par la suite Lev Manovich avance, qu'un code transporte une idéologie, un modèle, sont utilisation sera donc limitée par le système qui le régit.    
-Un langage est composé d'un certain nombre d'outils, de vocabulaires qui permettent à un peuple de s'exprimer et par la même délimite et détermine sa pensée, ses actes. Nous ne parlons pas ici de capacités intellectuelles, mais bien de "centre d'intérêt" ainsi :  
+Caché sous les couches de l'interface « les logiciels emportent des algorithmes et des codes qui orientent notre façon de voir » (\).  
+Par la suite, Lev Manovich avance, dans son livre _Le langage des nouveaux médias_, qu'un code transporte une idéologie, un modèle, sont utilisation sera donc limitée par le système qui le régit.    
+Un langage est composé d'un certain nombre d'outils, de vocabulaires qui permettent à un peuple de s'exprimer et par la même délimite et détermine sa pensée, ses actes. Nous ne parlons pas ici de capacités intellectuelles, mais bien de centres d'intérêt ainsi :  
 
 >"Je me souviens encore de l'hilarité provoquée chez mes amis des îles Marquises ... par l'intérêt (à leurs yeux, pure sottise) témoigné par le botaniste de notre expédition de 1921, envers les "mauvaises herbes" sans nom ("sans utilité") qu'il recueillait et dont il voulait savoir comment elles s'appelaient."(\)  
 
-De la même façon, pour un ordinateur ce qui n'est pas nommé n'as pas d'existence. L'ensemble des connaissances de son contenu se trouve dans un seul et unique fichier, appelé index. Effacer une ligne de cette liste c'est effacer la donnée correspondante.
-Ce déterminisme reste tout de même à tempérer chez l'Homme, mais dans le cas du code informatique ce phénomène prend de l'ampleur. En effet il opère un filtrage et un remachage des médias traités suivant des normes et des conventions. Le langage informatique est un langage radical, ne possédant aucunes nuances et rentre parfois en conflit avec nos besoin.
+De la même façon, pour un ordinateur ce qui n'est pas nommé n'a pas d'existence. L'ensemble des connaissances de son contenu se trouve dans un seul et unique fichier, appelé index. Effacer une ligne de cette liste c'est effacer la donnée correspondante.
+Ce déterminisme reste tout de même à tempérer chez l'Homme, mais dans le cas du code informatique ce phénomène prend de l'ampleur. En effet, il opère un filtrage des médias traités suivant des normes et des conventions. Le langage informatique est un langage radical, ne possédant aucunes nuances et rentre parfois en conflit avec nos besoins.
  
-Matthew Fuller, artistes et théoricien des nouveaux média, met en avant l'arrière plan idéologique de la suite bureautique [Microsoft][suite créée en 1995 et comprenant un logiciel de traitement de texte, un tableur et un créateur de diapositives](\). Si le design d'une interface nous place dans un environnement familier, par les métaphores qu'il utilise, il restreint aussi notre appréhension de celle-ci et nie notre cappacité à apprendre l'utilisation de nouveaux outils.(\) De plus le logiciel _Microsoft Word_, nous impose une approche du travail d'écriture et force l'ensemble des pratique à s'adapter au condition de travail du secteur tertiaire. Cette recherche de l'efficacité en devient parfois absurde et se caractérise par par une [surenchere de la production d'îcones](img/toolbars). 
-Mis à part le côté estéthique lourd induit par ce mode de fonctionnement, il faut être conscient qu'à l'heure actuelle l'ordinateur peut influencer la conception que nous avons de nous même, de notre travail, de nos relations. (\) Et le designer doit être attentif au fait que le programme, système d'exploitation modélisera notre rapport et notre accès au contenu. (\)
+Matthew Fuller, artiste et théoricien des nouveaux médias, met en avant l'arrière-plan idéologique de la suite bureautique [Microsoft][suite créée en 1995 et comprenant un logiciel de traitement de texte, un tableur et un créateur de diapositives](\). Si le design d'une interface nous place dans un environnement familier, par les métaphores qu'il utilise, il restreint aussi notre appréhension de l'outil numérique et nie notre capacité d'apprendre l'utilisation de nouvelles méthodes.(\) De plus, le logiciel _Microsoft Word_ nous impose une approche du travail d'écriture et force l'ensemble des pratiques à s'adapter aux conditions de travail du secteur tertiaire. Cette recherche de l'efficacité en devient parfois absurde et se caractérise par une [surenchère de la production d'icônes](img/toolbars). 
+Mis à part le côté esthétique lourd induit par ce mode de fonctionnement, il faut être conscient qu'à l'heure actuelle l'ordinateur peut influencer la conception que nous avons de nous-mêmes, de notre travail, de nos relations. (\) Le designer doit être attentif au fait que le programme, système d'exploitation, modélisera notre rapport et notre accès au contenu. (\)
 
-Notre accès à l'information est filtré par nos outil. L'interface comme le code qui la produit sont des modèles transportant leurs propres visions du monde, leur propre organisation. Mais les nouvelles méthodes de hierarchisation de contenu, dû à l'invention du lien hypertext, ont aussi une influence importante.
+Notre accès à l'information est filtré par nos outils. L'interface comme le code qui la produit sont des modèles transportant leurs propres visions du monde, leur propre organisation. Mais les nouvelles méthodes de hiérarchisation de contenu, dû à l'invention du lien hypertexte, ont aussi une influence importante.
  
 (\)Sherry Turkle, ,conférence TED, 2012  
 (\)Alexandre Galloway, _The Interface Effect_, ,Polity Press, 2012  
@@ -89,10 +89,10 @@ Notre accès à l'information est filtré par nos outil. L'interface comme le co
 ---
 
 Le lien hypertexte provient d'une utopie, d'un désir de compiler le savoir humain et de favoriser les échanges entre les scientifiques.   
-En 1945, en réponse aux atrocités produites par la Seconde Guerre mondiale et les technologies crées dans un but destructeur, Vanenevar Bush écrivit un texte fondateur et culte de l'informatique. 
-Dans « As we may think »(\), ce scientifique américain assure que le partage des connaissances, facilité et assisté par un outil électronique (nommé memex, entre texte et mémoire (\)) sera un poids non négligeable face à la menace d'éradication de l'espèce humaine par l'utilisation de la bombe atomique. Une vision optimiste, proche de la philosophie des lumières, dans laquelle le savoir vient éclairer les vertus de l'être humain (\).  
-Cette machine se présente sous la forme d'une table de bureau dont le dessus est un écran de consultation des éléments contenu en son sein et enregistrée sur des bandes magnétiques. Par un système complex de rails, des liens peuvent être tissés entre chaque contenu.[*]()
-Le fonctionnement du memex sous-entend un échange d'information, car il n'y a pas qu'un memex, mais plusieurs, empêchant ainsi la concentration du savoir en un seul lieu.  
+En 1945, en réponse aux atrocités produites par la Seconde Guerre mondiale et les technologies crées dans un but destructeur, Vanevar Bush écrivit un texte fondateur et culte de l'informatique. 
+Dans « As we may think »(\), ce scientifique américain assure que le partage des connaissances, facilité et assisté par un outil électronique (nommé _memex_, entre texte et mémoire (\)) sera un poids non négligeable face à la menace d'éradication de l'espèce humaine par l'utilisation de la bombe atomique. Une vision optimiste, proche de la philosophie des lumières, dans laquelle le savoir vient éclairer les vertus de l'être humain (\).  
+Cette machine se présente sous la forme d'une table de bureau dont le dessus est un écran de consultation des éléments contenus en son sein et enregistrés sur des bandes magnétiques. Par un système complexe de rails, des liens peuvent être tissés entre chaque contenu.[*]()
+Le fonctionnement du _memex_ sous-entend un échange d'information, car il n'y a pas qu'une station, mais plusieurs, empêchant ainsi la concentration du savoir en un seul lieu.  
 
 > « C’est exactement comme si on avait rassemblé les documents réels pour faire un nouveau livre, en mieux, car chaque article est relié à une multitude de pistes. [ … ] Des formes entièrement nouvelles d’encyclopédies vont apparaître, prêtes à l’emploi avec un réseau de pistes fonctionnant par association, prêtes à être insérées et amplifiées dans le memex. »(\)  
 
@@ -100,8 +100,8 @@ En 1963 grâce aux nouvelles techniques et à l'apparition des ordinateurs perso
 Ces notions induisent un fonctionnement particulier :   
 
 * une grande quantité d’informations est consultable
-* une structure (une arborescence) doit relier ces donnés
-* À un moment donné le lecteur n’a besoin que d’une faible portion de l’information. (\)
+* une structure (une arborescence) doit relier ces données
+* À un instant donné, le lecteur n’a besoin que d’une faible portion de l’information. (\)
 
 Néanmoins Ted Nelson place son travail plus en réaction aux pratiques de son temps et veut à tout prix éradiquer toute relation avec le support papier. Désignant l'espace hypertexte « Là où nulle impression n’est possible ».(\)  
 Il souhaite imposer une horizontalité au traitement de l'information et prône une utilisation complète des capacités de l'ordinateur, intrinsèque à celui-ci. L'utilisateur est amené à se créer sa propre "bibliothèque" composée de texte entre lesquels il tissera des [liens](img/Xanadu).    
@@ -118,7 +118,7 @@ En 1968 Douglas Engelbart présentera une nouvelle utilisation des liens hyperte
 * fenêtres multiples
 * interface graphique
 
-Tisser des liens entre des donnés c'est créer un espace. Un espace n'est pas matériel, il n'est pas non plus situé, il existe par l'ordre des choses qui le constitue (\) L'acte de se déplacer et d'acquérir de l'informations grâce à des systèmes mnémoniques nous rappel les pratiques des arts de mémoire dans la Grèce antique.(\) Si cette pratique est née suite à l'effondrement du palais de Simonide de Céos, il trouve un équivalent dans le projet Xanadu, inspiré du palais gigantesque de [Kubla Khan](img/picsou Xanadu).   
+Tisser des liens entre des données c'est créer un espace. Un espace n'est pas matériel, il n'est pas non plus situé, il existe par l'ordre des choses qui le constitue (\) L'acte de se déplacer et d'acquérir de l'informations grâce à des systèmes mnémoniques nous rappel les pratiques des arts de mémoire dans la Grèce antique.(\) Si cette pratique est née suite à l'effondrement du palais de Simonide de Céos, il trouve un équivalent dans le projet Xanadu, inspiré du palais gigantesque de [Kubla Khan](img/picsou Xanadu).   
 
 Notre déplacement au sein d'un programme est conditionné par les choix architecture et l'assemblage de chaque contenu les uns par rapport aux autres. Il existe de nombreuses manières d'établir un parcours en voici quelques schémas (\) :  
 

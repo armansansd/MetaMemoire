@@ -9,7 +9,7 @@ Dans _The Interface Effect_, Alexandre Galloway(\) nous explique que l'interface
  
 Penchons-nous sur le fonctionnement logique intrinsèque aux circuits des ordinateurs. L'algèbre de Boole (ou logique booléenne) est une « technique algébrique permettant de traiter des expressions à deux valeurs »(\), ici le 0 ou le 1, correspondant à l'absence ou la présence de courant.
 Cet algèbre utilise des variables particulières s'énonçant ainsi :ET, OU, NON, etc. 
-Ce sont des fonctions primaires ayant des équivalents physiques facilement appréhendables et donc réalisables sur des circuits imprimés. Voici un le schéma d'un [relais électronique][un relais est un interrupteur actionné par le champ magnétique d'une bobine annexe], qui est un composant phare de la création des calculateurs. Il permet d'effectuer une analogie entre les fonctions énoncées plus haut et un événement électrique.  
+Ce sont des fonctions primaires ayant des équivalents physiques facilement appréhendables et donc réalisables sur des circuits électroniques. Voici un le schéma d'un [relais électronique][un relais est un interrupteur actionné par le champ magnétique d'une bobine annexe], qui est un composant phare de la création des calculateurs. Il permet d'effectuer une analogie entre les fonctions énoncées plus haut et un événement électrique.  
 
 [*](img/schémasrelais)
 
@@ -54,7 +54,7 @@ Ce sont des fonctions primaires ayant des équivalents physiques facilement appr
 </tr>
 </tbody></table>
 
-Par accumulation, les scientifiques ont pu créer des circuits très complexes permettant l'enregistrement et le traitement d'informations. Si nos écrans sont des fenêtres, des points d'accès et de discours avec nos ordinateurs. Les circuits quant à eux qui les composent et les programmes qui les utilisent sont autant de portes (logiques), de couloirs et d'interrupteurs.  
+Par accumulation, les scientifiques ont pu créer des circuits très complexes permettant l'enregistrement et le traitement d'informations. Si nos écrans sont des fenêtres, des points d'accès et de discours avec nos ordinateurs. Les circuits qui les composent et les programmes qui les utilisent sont, quant à eux, autant de portes (logiques), de couloirs et d'interrupteurs.  
 Mais la fenêtre n'impose pas de représentation à ce qui lui passe au travers, une porte quant à elle, peut être ouverte ou fermée.(\)   
 Un langage de programmation, un code, n'est jamais neutre, il transporte et dirige notre accès à l'information, par sa structure et son élaboration.  
 L'interface, à laquelle le système est associé, l'est encore moins, car elle cristallise et fixe la perception.
@@ -77,11 +77,11 @@ Notre accès à l'information est filtré par nos outils. L'interface comme le c
 (\)Alexandre Galloway, _The Interface Effect_, ,Polity Press, 2012  
 (\)François Dagognet, _Faces, surfaces, interfaces_, p.49 ,librairie Philosophique J. Vrin, 1982
 (\)Alexandre Galloway, _op.cit_, p.32-33  
-(\)<https://fr.wikipedia.org/wiki/Algèbre_de_Boole_(logique)>, consulté le 15 janvier 2015  
+(\)<https://fr.wikipedia.org/wiki/Algèbre_de_Boole_(logique)>, [consulté en janvier 2015)  
 (\)Alexandre Galloway, _op.cit_, p.40  
 (\)Lev Manovich, _Le langage des nouveux médias_, MIT press, 2001, p.146 de la traduction pour les Presses du réel, 2010  
 (\)Claude Lévi-Strauss, _La pensée sauvage_, p.12, édition Plon, 2010, texte original 1962   
-(\)Matthew Fuller, « It looks like you're writing a letter: Microsoft Word », <http://www.nettime.org/Lists-Archives/nettime-l-0009/msg00040.html>, 2000
+(\)Matthew Fuller, « It looks like you're writing a letter: Microsoft Word », <http://www.nettime.org/Lists-Archives/nettime-l-0009/msg00040.html>, 2000, [consulté en juillet 2014]
 (\)Anthony Masure, _Le design des programmes_, p.203, 2014  
 (\)Sherry Turkle, _The Secong Self : Computers and the Human Spirit_, p.156, The MIT Press, 2005, texte original 1984  
 (\)Lev Manovich, _op.cit_, p158  
@@ -106,17 +106,17 @@ Ces notions induisent un fonctionnement particulier :
 Néanmoins Ted Nelson place son travail plus en réaction aux pratiques de son temps et veut à tout prix éradiquer toute relation avec le support papier. Désignant l'espace hypertexte « Là où nulle impression n’est possible ».(\)  
 Il souhaite imposer une horizontalité au traitement de l'information et prône une utilisation complète des capacités de l'ordinateur, intrinsèque à celui-ci. L'utilisateur est amené à se créer sa propre bibliothèque composée de texte entre lesquels il tissera des [liens](img/Xanadu).    
 Le déplacement entre chaque contenu se fait de point d'intérêt en point d'intérêt. Le projet Xanadu reste extrêmement difficile à appliquer à d'autres médias tel que la [vidéo](img/Xanaduvideo).  
-Cette idée est réapparue en 2011 au sein de l'interface [Lines](img/lines)(\). Ce site s'inspire des pratiques d'apprentissages scolaires des moines, au début du moyen âge. Les livres possédaient d'importantes marges permettant l'apposition de [glose](img/gloses), d'annotation venant compléter les textes, les éclairer. Malheureusement la réalisation d'une telle tâche est limitée par l'espace papier disponible. Le projet exploite donc les capacités panoramiques et de zoom de l'écran rendant l'espace « péri-text » infini.  
+Cette idée est réapparue en 2011 au sein de l'interface [Lines](img/lines)(\). Ce site s'inspire des pratiques d'apprentissages scolaires des moines, au début du moyen âge. Les livres possédaient d'importantes marges permettant l'apposition de [gloses](img/gloses), d'annotations venant compléter les textes, les éclairer. Malheureusement la réalisation d'une telle tâche est limitée par l'espace papier disponible. Le projet exploite donc les capacités panoramiques et de zoom de l'écran rendant l'espace « péri-text » infini.  
 Ce projet s'inscrit dans une longue tradition de "virtualisation" de la page initiée par Xanadu précédemment cité.
 En 1997 le collectif [Antirom][Collectif londonien, formé en 1994. Ces artistes/hacker/designer protestent contre la mauvaise conception de nos interfaces, trop ancrée dans une mimique du réel] avaient créé une page web illustrant ce croisement et cette hybridation entre page traditionnelle et espace infini de l'écran. Le portail n'est plus accessible, mais, par chance, Lev Manovich nous en donne une description précise :
 > « Ils ont créé une grande surface contenant des blocs de textes rectangulaires de tailles diverses et disposés sans ordre apparent. L'utilisateur est invité à sauter d'un bloc à l'autre en se déplaçant dans toutes les directions ». (\)[*](img/antirom)
 
-En 1968 Douglas Engelbart présentera une nouvelle utilisation des liens hypertextuels, au sein de [NLS][oN-Line System]. Dans sa vidéo intitulée plus tard « mother of all demo »(\) il présente un système de menu déroulant permettant de se déplacer dans une architecture de dossier. NLS est un temps fort dans l'histoire des systèmes d'exploitation, car il pose les principes de bases de l'ergonomie de nos interfaces.[*](img/NLS)
+En 1968 Douglas Engelbart présentera une nouvelle utilisation des liens hypertextuels, au sein de [NLS][_oN-Line System_]. Dans sa vidéo intitulée plus tard « la mère de toutes les démos »(\) il présente un système de menu déroulant permettant de se déplacer dans une architecture de dossier. NLS est un temps fort dans l'histoire des systèmes d'exploitation, car il pose les principes de bases de l'ergonomie de nos interfaces.[*](img/NLS)
  
 * la souris
-* hypermédia 
-* fenêtres multiples
-* interface graphique
+* l'hypermédia 
+* le fenêtrage multiple
+* l'interface graphique
 
 Tisser des liens entre des données c'est créer un espace. Un espace n'est pas matériel, il n'est pas non plus situé, il existe par l'ordre des choses qui le constitue (\) L'acte de se déplacer et d'acquérir de l'information grâce à des systèmes mnémoniques nous rappelle les pratiques des arts de mémoire dans la Grèce antique.(\) Si cette pratique est née suite à l'effondrement du palais de Simonide de Céos, il trouve un équivalent dans le projet Xanadu, inspiré du palais gigantesque de [Kubla Khan](img/picsou Xanadu).   
 
@@ -140,11 +140,11 @@ Les programmes dans lesquels nous naviguons, que nous utilisons, influencent not
 (\)Anthony Masure, traduction de l'article _As we may think_ écrit par Vanevar Bush  
 (\)Étienne Mineur, _Le Design des Médias Interactifs_, p12, mémoire réalisé lors de ses études à l'ENSAD ,1989   
 (\)Anthony Masure, _op.cit_, p.33  
-(\)The cafe Society, _Lines_, <http://lines.thecafesociety.org/>, consulté en janvier 2015  
+(\)The cafe Society, _Lines_, <http://lines.thecafesociety.org/>, [consulté en janvier 2015]  
 (\)Lev Manovich, _op.cit_, p.174  
-(\)Douglas Engelbart, _The Mother of All Demos_, <https://www.youtube.com/watch?v=yJDv-zdhzMY>, 1968  
+(\)Douglas Engelbart, _The Mother of All Demos_, <https://www.youtube.com/watch?v=yJDv-zdhzMY>, 1968, [consulté en février 2014]  
 (\)Jérôme Beaude, « Internet est-il en train de disparaître ? », _La place de la toile, France Culture, 28 avril 2014  
-(\)Jean-Michel Maulpoix, « L’art de la mémoire », analyse de l'oeuvre de Frances Yates, <http://www.maulpoix.net/memoire.html>, consulté en janvier 2015    
+(\)Jean-Michel Maulpoix, « L’art de la mémoire », analyse de l'oeuvre de Frances Yates, <http://www.maulpoix.net/memoire.html>, [consulté en janvier 2015]    
 (\)Étienne Mineur, _op.cit_, p.13-14  
 (\)Lev Manovich, _op.cit_, p.149 
 
@@ -152,20 +152,22 @@ Les programmes dans lesquels nous naviguons, que nous utilisons, influencent not
 
 Les technologies de l'écran fascinent et attirent, car elles  émettent directement de la lumière et comme le « feu » nous les idolâtrons. C'est un « objet » que nous sommes incapables de comprendre en partie parce qu'il s'est construit dans une zone « objective impure, où se mêlent les intuitions personnelles et les expériences scientifiques ».(\)  
   
-L'interface graphique, dans son rôle étrange d'acteur actionné, est basée sur un rapport fétichiste, ou, pour certain, allégorique. (\). Mais ces deux termes ne sont pas incompatibles. Si l'un traduit le rapport d'affectivité que nous pouvons avoir sur ces images symboliques, l'autre souligne le statut paradoxal de ces images, qui sont le résultat des efforts effectués pour expliquer un fonctionnement abstrait afin de rendre tangible l'invisible (les données, l'information) tout en rendant invisible la machine, elle, bien réelle.(\)  
+L'interface graphique, dans son rôle étrange d'acteur actionné, est basée sur un rapport fétichiste, ou, pour certain, allégorique. (\) Ces deux termes ne sont pas incompatibles. Si l'un traduit le rapport d'affectivité que nous pouvons avoir sur ces images symboliques, l'autre souligne le statut paradoxal de ces images, qui sont le résultat des efforts effectués pour expliquer un fonctionnement abstrait afin de rendre tangible l'invisible (les données, l'information) tout en rendant invisible la machine, elle, bien réelle.(\)  
 
 >« Maintenant nous sommes prêts à considérer qu'une chose est réelle quand le consensus en est fait. La réalité devient un problème d'intersubjectivité. Dans l'antiquité la licorne était réelle, parce qu'il y avait  un consensus  sur son existence. Elle n'est plus  réelle parce qu'il n'y a plus  le moindre consensus  concernant la licorne. » (\)
 
-Lev Manovich introduit son article(\) en présentant le fonctionnement d'un studio de web-design, qu'il a visité dans les années 90. Il met en avant l'architecture des bureaux [Razorfish studios][connue pour avoir fait la plus grosse soirée de la Silicon Valley,où des travestis on servit plus de 4000 hamburgers (\)](img/RazorFish), fonctionnant sur les grands principes de la culture informatique que sont l'interactivité, l'absence de hiérarchie et la modularité. Ainsi chaque 
-En quittant le studio, il s'arrête chez Venus, une boutique "branchée" crée par Patricia Field, où il achète un portefeuille orange fermé par deux boutons retour arrière du navigateur web.(\)  
+Lev Manovich introduit son article(\) en présentant le fonctionnement d'un studio de web-design, qu'il a visité dans les années 90. Il met en avant l'architecture des bureaux du [Razorfish studios][connue pour avoir fait la plus grosse soirée de la Silicon Valley, où des travestis on servit plus de 4000 hamburgers (\)](img/RazorFish), fonctionnant sur les grands principes de la culture informatique que sont l'interactivité, l'absence de hiérarchie et la modularité.  
+En quittant le studio, il s'arrête chez Venus, une boutique « branchée » crée par Patricia Field, où il achète un portefeuille orange fermé par deux boutons retour arrière du navigateur web.(\)  
 Ce que perçoit ici Lev Manovich, c'est l'avènement, de ce que James Bridle nomme et définit la _new aesthetic_ (nouvelle esthétique), au travers d'une collecte d'image sur son [blog][Tumblr] du même nom. En 30 ans la culture a fait un tour complet, ce sont maintenant les conventions de ces interfaces qui font un retour dans la réalité physique.  
 
 La nouvelle esthétique s'est créée au travers de l'évolution de la manière dont le numérique et le quotidien sont de plus en plus « interpénétrant ».(\) James Bridle, artiste et écrivain américain,(\) effectue une collecte de matériaux afin de délimiter, de trier  et de définir ce qui se cache derrière ce terme. Cette notion peut prendre différentes formes allant du [glitch](img/glitch), erreur ou bug exposant la structure sous-jacente de l'image, au [seapunk](img/seapunk), contre-culture issue d'internet et de ses espaces sociaux, réutilisant de nombreux codes des débuts de l'informatique et de l'image en trois dimensions, en passant par le [pixel art](img/pixelart).  
  
-J'ai trouvé, lors d'un voyage, cette [affiche](img/jesussave) pour une paroisse chrétienne utilisant un élément de menu Microsoft Office, moins pour sa qualité ornementale que pour sa signification littérale. Outre une certaine forme de naïveté, littérale, présente dans ce geste, nous pouvons noté que l'esthétique des outils informatiques (et plus particulièrement de nos systèmes d'exploitation) sont implantés dans notre culture et semblerait posséder une certaine aura fascinante.   
-Il serait intéressant de noter la place qu'occupe l'interface dans ce mouvement et comment ses idiomes et signes ont pu être réutilisés par les artistes et designer. De quelle façon ces derniers ont-ils pu voir nos systèmes d'exploitation et nos logiciels, dans leur potentiel esthétique offrant une nouvelle approche de l'art numérique. 
+J'ai trouvé, lors d'un voyage, cette [affiche](img/jesussave) pour une paroisse chrétienne utilisant un élément de menu Microsoft Office, moins pour sa qualité ornementale que pour sa signification. Outre une certaine forme de naïveté, littérale, présente dans ce geste, nous pouvons noté que l'esthétique des outils informatiques (et plus particulièrement de nos systèmes d'exploitation) sont implantés dans notre culture et semblerait posséder une certaine aura fascinante.   
+Il serait intéressant de noter la place qu'occupe l'interface dans ce mouvement et comment ses idiomes et signes ont pu être réutilisés par les artistes et designer. De quelle façon ces derniers ont-ils pu voir nos systèmes d'exploitation et nos logiciels, dans leur potentiel esthétique offrant une nouvelle approche de l'art numérique.  
+
+>« [...]nous commençons à voir l'interface telle une forme esthétique à part entière qui offre une nouvelle manière d'appréhender et de comprendre l'art digital[...] »(\)
+ 
 N'éprouvons-nous pas une certaine surprise (nostalgique), en redécouvrant le jeu de cartes [solitaire][dessiné par Suzan Kare et Leslie Kooy en 1990 pour le système d'exploitation Windows 3.0], imprimé par l'artiste [Evan Roth](img/solitaire) ?
->« [...]start seeing the interface as an aesthetic form in itself that offers a new way to understand digital art in its various guises[...] »(\)
 
 Metahaven est un studio de graphisme hollandais basé à Amsterdam. Daniel Van der Velden et  Vinca Kruk tentent de définir, en utilisant les codes propres au monde informatique,une nouvelle approche du design graphique. Il est intéressant de voir comment certains éléments d'interface sont utilisés dans leurs affiches. Dans le poster pour [_Data / Saga_](img/datasaga), l'information est incluse dans une fenêtre de navigateur de fichier [Finder][gestion de fichiers Macintosh]. Et utilise une fausse feuille faisant ainsi référence au skeumorphisme de la page utilisée dans certaines présentations. Les éléments sont ici des ornements totalement corollaires au contexte dans lequel l'affiche a été réalisée.
 
@@ -177,11 +179,11 @@ Danielle Aubert quant à elle joue avec les codes de son environnement de travai
 (\)_ibid_  
 (\)Sonia Marques et Etienne CLiquet, Ecole Supérieure des Beaux-arts d'Angers, _Iconorama_, p.18, édition Isolarii,2005  
 (\)Lev Manovich, _op.cit_, « les formes », p.385  
-(\)Jim Edwards, « Worst Office Party Ever? » <http://www.cbsnews.com/news/worst-office-party-ever-razorfish-still-remembered-for-infamous-bellydancer-blowout-of-13-years-ago/>, 2010, consulté en janvier 2015  s
+(\)Jim Edwards, « Worst Office Party Ever? » <http://www.cbsnews.com/news/worst-office-party-ever-razorfish-still-remembered-for-infamous-bellydancer-blowout-of-13-years-ago/>, 2010, [consulté en janvier 2015]  
 (\)Lev Manovich, _op.cit_, « les formes », p.385  
-(\)<https://en.wikipedia.org/wiki/New_Aesthetic>  
+(\)<https://en.wikipedia.org/wiki/New_Aesthetic>, [consulté en janvier 2015]    
 (\)James Bridle, <http://new-aesthetic.tumblr.com/>  
-(\)Soren Bro Pold, « Interface Realisms: The Interface as Aesthetic Form », University of Aarhus, <http://pmc.iath.virginia.edu/text-only/issue.105/15.2pold.txt>, 2005    
+(\)Soren Bro Pold, « Interface Realisms: The Interface as Aesthetic Form », University of Aarhus, <http://pmc.iath.virginia.edu/text-only/issue.105/15.2pold.txt>, 2005, [consulté en décembre 2014]    
 
 ----------
 Au vu de l'influence et de l'impact que l'informatique et ses interfaces ont sur le comportement des utilisateurs, il serait temps prendre en main nos usages et d'acquérir un regard critique envers les médias numériques. De plus les métaphores utilisées tendent à disparaître et l'avenir des interfaces graphiques est plus qu'incertain. Nous avons les moyens de proposer de nouveaux systèmes ou de nouvelles architectures.
